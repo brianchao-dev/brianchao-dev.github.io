@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: Hi, my name is Brian!
 # comments: yes
 permalink: /about/
 ---
-
-## Hi, my name is Brian!
 
 A little bit about myself: I am a current sophomore attending [Taipei American School](https://www.tas.edu.tw/) in Taipei, Taiwan. I love spending my time outdoors engaging in a variety of sports, including swimming, cycling, and running. When I'm at home, I enjoy learning about and analyzing the stock market.
 
