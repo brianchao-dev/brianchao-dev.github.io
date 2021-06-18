@@ -1,6 +1,6 @@
 ### Site info:
-title: Personal Blog
-tagline: Just a Collection of High Schooler Thoughts
+title: Blogging Personal Finance
+tagline: Sharing my thoughts on current events in the stock market and the business world.
 author: Brian Chao
 email: brianchao.dev@gmail.com
 description: "Description of Website" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
@@ -10,13 +10,13 @@ url: "https://brianchao-dev.github.io" # the base hostname & protocol for your s
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
+twitter_username: # yulijia
+github_username:  # yulijia
+disqus_shortname: # freshman21
 favicon:     "/images/favicon.ico"
-aboutme: About me section. # these are shown on aboutme-sidebar.
+aboutme: International student based in Taipei, Taiwan. Avid swimmer, cyclist, runner, and outdoorsman. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: # UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
@@ -64,13 +64,13 @@ locales:
 
 ### your Blogroll info, only name can shown on the page.
 
-Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
-      - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
+      # Blogroll:
+      # - name: Freshman
+      #   href: http://yulijia.net/freshman
+      #   title: Another Jekyll blog theme
+      # - name: author's website
+      #   href: http://yulijia.net/
+      #   title: Lijia Yu's website
 
 
 ### Build settings
