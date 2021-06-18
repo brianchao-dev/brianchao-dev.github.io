@@ -1,27 +1,12 @@
 ---
 layout: page
 title: About
-comments: yes
+# comments: yes
 permalink: /about/
 ---
 
+## Hi, my name is Brian!
 
-### Freshman21 is a Jekyll theme.
+A little bit about myself: I am a current sophomore attending [Taipei American School](https://www.tas.edu.tw/) in Taipei, Taiwan. I love spending my time outdoors engaging in a variety of sports, including swimming, cycling, and running. When I'm at home, I enjoy learning about and analyzing the stock market.
 
-A tribute to Twenty Twelve and Twenty eleven.
-
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
-
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
-
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
-
-![麋鹿](https://i.imgur.com/Mdc4szJl.jpg){: .img-about}
-
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
-
-Milu(麋鹿) is the chinese name of Père David's deer.
-
-
-
+This is my personal blog detailing my thoughts on the business word. I often publish blog posts sharing everything I learn about the stock market with the purpose of educating others about it.
