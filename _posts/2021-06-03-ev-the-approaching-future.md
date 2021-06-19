@@ -11,6 +11,7 @@ tags:
 ## What are Electric Vehicles?
 
 ![electric-vehicle](/images/ford-mustang.png)
+*The 2021 Ford Mustang [Mach-E](https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/ford%20mustang%20mach-e.png?h=e9c290be)*
 
 > "The time is right for electric cars - in fact, the time is critical."
 > <center><em> -- Carlos Ghosn, the CEO of Nissan and chairman of Mitsubishi Motors.</em></center>
@@ -19,7 +20,10 @@ An EV, short for electric vehicle, is a "fully electric vehicle that runs on a r
 
 ## Charging an Electric Vehicle
 
-It is typical for EV owners to install chargers in their homes. With a simple plug at the end of the day, your EV will be fully charged by the next morning, saving yourself a burdensome trip to the gas station. There are also numerous public charging stations available at your convenience. However, charging an EV at a station may take noticeably longer than refueling a typical gasoline-powered car. The duration depends on the type of charger and the car. Rapid chargers are the fastest and can fuel between "60-200 miles of range in 20-30 mins." As a result, using an EV for long distance traveling will unfortunately require long stops at charging stations as opposed to quick gas station trips that take an average of 4.5 minutes. But, keep in mind that technology is improving fast! Ultra-fast EV chargers, which are capable of charging up to an incredible 150 kW, are already being developed. EV's also have much larger battery capacities as compared to 5 years ago. Furthermore, charging stations are being built rapidly with Tesla, itself, having over 1,826 stations. And a total of 41,400 charging stations in the U.S. with many more to come.   
+It is typical for EV owners to install chargers in their homes. With a simple plug at the end of the day, your EV will be fully charged by the next morning, saving yourself a burdensome trip to the gas station. There are also numerous public charging stations available at your convenience. However, charging an EV at a station may take noticeably longer than refueling a typical gasoline-powered car. The duration depends on the type of charger and the car. Rapid chargers are the fastest and can fuel between "60-200 miles of range in 20-30 mins." As a result, using an EV for long distance traveling will unfortunately require long stops at charging stations as opposed to quick gas station trips that take an average of 4.5 minutes. But, keep in mind that technology is improving fast! Ultra-fast EV chargers, which are capable of charging up to an incredible 150 kW, are already being developed. EV's also have much larger battery capacities as compared to 5 years ago. Furthermore, charging stations are being built rapidly with Tesla, itself, having over 1,826 stations. And a total of 41,400 charging stations in the U.S. with many more to come.
+
+![tesla-charging-station](/images/tesla-charging-station.png)
+*Tesla [supercharging station](https://cdn.vox-cdn.com/thumbor/UiMNENJXM6LQBpfsZ7fVG9PgjJM=/0x0:4046x2700/1200x800/filters:focal(1700x1027:2346x1673)/cdn.vox-cdn.com/uploads/chorus_image/image/59032287/shutterstock_777484921.0.jpg) in Santa Monica, CA*
 
 ## The Greener Option
 
