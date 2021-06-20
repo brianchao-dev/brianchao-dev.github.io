@@ -14,7 +14,7 @@ twitter_username: # yulijia
 github_username:  # yulijia
 disqus_shortname: # freshman21
 favicon:     "/images/favicon.ico"
-aboutme: International student based in Taipei, Taiwan. Avid swimmer, cyclist, runner, and outdoorsman. Learn more about me <a href="/about/">here</a>.# these are shown on aboutme-sidebar.
+aboutme: International student based in Taipei, Taiwan. Avid swimmer, cyclist, runner, and outdoorsman. Learn more about me <a href="/about/">here</a>.
 aboutme_photo: "/images/brian-headshot.jpg"
 google_analytics_key: # UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
