@@ -1,7 +1,6 @@
 ---
 layout: page
 title:
-# comments: yes
 permalink: /about/
 ---
 
@@ -11,4 +10,3 @@ A little bit about myself: I am a current sophomore attending [Taipei American S
 
 This is my personal blog detailing my thoughts on the business word. I often publish blog posts sharing everything I learn about the stock market with the purpose of educating others about it.
 
-![casual-photo](/images/brian-casual.jpeg)
